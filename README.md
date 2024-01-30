@@ -17,11 +17,11 @@ The *Expansion Module: SPI Flash* is designed for interfacing with FPGA on the S
 
 ## Design Files
 
-### Board Layout
-![Board Layout](media/brd.png)
-
 ### Schematic Diagram
 ![Schematic Diagram](media/sch.png)
+
+### Board Layout
+![Board Layout](media/brd.png)
 
 ## License
 The *Expansion Module: SPI Flash* project is released under the MIT License, granting permission to use, modify, and distribute this design in both private and commercial settings.
